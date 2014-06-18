@@ -1,7 +1,7 @@
 {
   "name": "tb.grunt-dot",
   "description": "Compile dot files to JavaScript.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/teambition/tb-grunt-dot",
   "repository": {
     "type": "git",
