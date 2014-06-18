@@ -1,0 +1,39 @@
+{
+  "name": "tb.grunt-dot",
+  "description": "Compile dot files to JavaScript.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/teambition/tb-grunt-dot",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:teambition/tb-grunt-dot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teambition/tb-grunt-dot/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "dot": "~1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-internal": "~0.4.6",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "files": [
+    "tasks",
+    "LICENSE-MIT"
+  ]
+}
